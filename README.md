@@ -1,7 +1,7 @@
 
 ![AMWA](images/amwa_header-logo.png)
 
-# Example AMWA Specification
+# Example AMWA Informative Specification [Work In Progress]
 
 This is a dummy specification to demonstrate AMWA's process.
 
@@ -23,13 +23,19 @@ AMWA are currently looking at a possible revision to BCP-001 that suits the "API
 
 Two obvious reasons are to **add features** and **fix bugs** (problems) in the specification. For this example repository we'll keep lists of these in this README and update the lists as we make new versions.
 
+## ~~Creatures~~ Features
+
+- Aardvark
+
+## Bugs
+
+
 ## Repository contents
 
 * README.md -- This file
 * [images](images) -- Images used in documents
 * [LICENSE](LICENSE) -- Licenses for software and text documents
 * [NOTICE](NOTICE) -- Disclaimer
-
 
 [//]: # (References/Links)
 
