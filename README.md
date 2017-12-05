@@ -35,6 +35,8 @@ Two obvious reasons are to **add features** and **fix bugs** (problems) in the s
 - Ant
 - Bee
 - Cicada
+- Damselfly
+- Earwig
 
 ## Repository contents
 
