@@ -3,7 +3,7 @@
 
 # Example AMWA Informative Specification [Work In Progress]
 
-This is a dummy specification to demonstrate AMWA's process.
+This is a dummy specification to demonstrate AMWA's process, as applied to a development workflow, using GitHub and semantic versioning.
 
 ## Why does this exist?
 
@@ -37,13 +37,6 @@ Two obvious reasons are to **add features** and **fix bugs** (problems) in the s
 - Cicada
 - Damselfly
 - Earwig
-
-## Repository contents
-
-* README.md -- This file
-* [images](images) -- Images used in documents
-* [LICENSE](LICENSE) -- Licenses for software and text documents
-* [NOTICE](NOTICE) -- Disclaimer
 
 [//]: # (References/Links)
 
