@@ -21,17 +21,22 @@ AMWA are currently looking at a possible revision to BCP-001 that suits the "API
 
 ## Why do we need multiple versions of specs?
 
-Two obvious reasons are to **add features** and **fix bugs** (problems) in the specification. For this example repository we'll keep lists of features and bug fixes in this README and update the lists as we make new versions.
+Two obvious reasons are to **add features** and **fix bugs** (problems) in the specification. For this example repository we'll keep lists of features and bug fixes in this README and update the lists as we make new versions. 
+
+[This matrix](Version-matrix.md) shows which features are in which release.
 
 ## ~~Creatures~~ Features
 
 - Aardvark
+- Baboon
 
-## Bug fixes
+## Bug fixes (cumulative)
 
 - Ant
 - Bee
 - Cicada
+- Damselfly
+- Earwig
 
 ## Repository contents
 
