@@ -39,6 +39,7 @@ This approximately corresponds to this repo, and may help:
 
 - Aardvark
 - Baboon
+- Capybara
 
 ## Bug fixes (cumulative)
 
