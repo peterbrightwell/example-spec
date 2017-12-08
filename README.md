@@ -1,7 +1,7 @@
 
 ![AMWA](images/amwa_header-logo.png)
 
-# Example AMWA Informative Specification v1.0
+# Example AMWA Informative Specification v1.1
 
 This is a dummy specification to demonstrate AMWA's process, as applied to a development workflow, using GitHub and semantic versioning.
 
