@@ -25,6 +25,12 @@ Two obvious reasons are to **add features** and **fix bugs** (problems) in the s
 
 [This matrix](Version-matrix.md) shows which features are in which release.
 
+## How does a GitHub repo such as this relate to what's on amwa.tv?
+
+This approximately corresponds to this repo, and may help:
+
+ ![this diagram](images/amwa-github-example.png).
+
 ## Features
 
 - Aardvark
