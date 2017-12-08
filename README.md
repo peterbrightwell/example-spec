@@ -50,6 +50,7 @@ This approximately corresponds to this repo, and may help:
 - Earwig
 - Flea
 - Grasshopper
+- Hornet
 
 [//]: # (References/Links)
 
