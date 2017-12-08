@@ -1,7 +1,7 @@
 
 ![AMWA](images/amwa_header-logo.png)
 
-# Example AMWA Informative Specification [Work In Progress]
+# Example AMWA Informative Specification v1.0
 
 This is a dummy specification to demonstrate AMWA's process, as applied to a development workflow, using GitHub and semantic versioning.
 
@@ -25,7 +25,7 @@ Two obvious reasons are to **add features** and **fix bugs** (problems) in the s
 
 [This matrix](Version-matrix.md) shows which features are in which release.
 
-## ~~Creatures~~ Features
+## Features
 
 - Aardvark
 - Baboon
