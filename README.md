@@ -19,6 +19,10 @@ AMWA are currently looking at a possible revision to BCP-001 that suits the "API
  - How do I know it won't change in the future?
  - Which specifications are required with / work with which?
 
+## What will the new process be like?
+
+The "Proposed Specification" stage will be removed, and a new "stable sticker" introduced, that can be applied to Specifications. The meaning of that sticker is project-dependent, but one possibility is that it could be similar to the meaning of a major version number when using [semantic versioning](https://semver.org)
+
 ## Why do we need multiple versions of specs?
 
 Two obvious reasons are to **add features** and **fix bugs** (problems) in the specification. For this example repository we'll keep lists of features and bug fixes in this README and update the lists as we make new versions. 
